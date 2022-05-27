@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dndi312
 - 👀 I’m interested in everything related to IT.
-- 🌱 I’m currently learning Java,Python e.t.c.
+- 🌱 I’m currently learning Java,Python,JS e.t.c.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact to email loginimmenin@gmail.com
 
